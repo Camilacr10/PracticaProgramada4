@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Consulta de Estudiante por ID";
+}
+
+<h2 class="mb-3">@ViewData["Title"]</h2>
+
+<a href="/Estudiante/Index" class="btn btn-outline-secondary mb-3">
+    ← Volver
+</a>
+
+<div class="card mt-2">
+    <div class="card-body">
+
+        <div class="input-group mb-3">
+            <input type="number" id="buscarId" class="form-control" placeholder="Ingrese el ID del estudiante">
+            <button class="btn btn-primary" id="btnBuscar">Buscar</button>
+        </div>
+
+        <div id="resultado" style="display:none;">
+            <h5 class="mt-3">Resultado:</h5>
+            <table class="table table-bordered">
+                <tr><th>ID</th><td id="resId"></td></tr>
+                <tr><th>Nombre</th><td id="resNombre"></td></tr>
+                <tr><th>Apellido</th><td id="resApellido"></td></tr>
+                <tr><th>Edad</th><td id="resEdad"></td></tr>
+            </table>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Estudiantes.js" asp-append-version="true"></script>
+}

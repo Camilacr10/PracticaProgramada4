@@ -1,0 +1,48 @@
+﻿@model ProyectoEstudiantesBLL.Dtos.EstudianteDto
+
+<!-- Modal Editar Estudiante -->
+<div class="modal fade" id="modalEditarEstudiante" tabindex="-1" aria-labelledby="modalEditarEstudianteLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalEditarEstudianteLabel">Editar Estudiante</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+
+            <div class="modal-body">
+                <form id="formEditarEstudiante" asp-controller="Estudiante" asp-action="EditarEstudiante" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <!-- El JS llena este hidden por id="EstudianteId",pero el name sigue siendo "Id" para el modelo -->
+                    <input type="hidden" asp-for="Id" id="EstudianteId" />
+
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="form-label"></label>
+                        <input asp-for="Nombre" class="form-control" id="Nombre" />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Apellido" class="form-label"></label>
+                        <input asp-for="Apellido" class="form-control" id="Apellido" />
+                        <span asp-validation-for="Apellido" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Edad" class="form-label"></label>
+                        <input asp-for="Edad" class="form-control" id="Edad" />
+                        <span asp-validation-for="Edad" class="text-danger"></span>
+                    </div>
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <!-- Este botón lo usa el JS: Estudiantes.EditarEstudiante() -->
+                <button type="button" class="btn btn-primary" id="btnEditarCambios">Guardar cambios</button>
+            </div>
+
+        </div>
+    </div>
+</div>
