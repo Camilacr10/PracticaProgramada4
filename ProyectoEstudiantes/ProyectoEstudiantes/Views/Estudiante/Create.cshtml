@@ -2,42 +2,48 @@
 
 <!-- Modal Crear Estudiante -->
 <div class="modal fade" id="modalCrearEstudiante" tabindex="-1" aria-labelledby="modalCrearEstudianteLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
 
-            <div class="modal-header">
+            <div class="modal-header bg-primary text-white">
                 <h5 class="modal-title" id="modalCrearEstudianteLabel">Crear Estudiante</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cerrar"></button>
             </div>
 
             <div class="modal-body">
+                <p class="text-muted small mb-3">
+                    Complete la información del estudiante y presione <strong>Guardar</strong> para registrarlo.
+                </p>
+
                 <form id="formCrearEstudiante" asp-controller="Estudiante" asp-action="CrearEstudiante" method="post">
-                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
 
                     <div class="mb-3">
                         <label asp-for="Nombre" class="form-label"></label>
-                        <input asp-for="Nombre" class="form-control" />
-                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                        <input asp-for="Nombre" class="form-control" placeholder="Ingrese el nombre" />
+                        <span asp-validation-for="Nombre" class="text-danger small"></span>
                     </div>
 
                     <div class="mb-3">
                         <label asp-for="Apellido" class="form-label"></label>
-                        <input asp-for="Apellido" class="form-control" />
-                        <span asp-validation-for="Apellido" class="text-danger"></span>
+                        <input asp-for="Apellido" class="form-control" placeholder="Ingrese el apellido" />
+                        <span asp-validation-for="Apellido" class="text-danger small"></span>
                     </div>
 
-                    <div class="mb-3">
+                    <div class="mb-0">
                         <label asp-for="Edad" class="form-label"></label>
-                        <input asp-for="Edad" class="form-control" />
-                        <span asp-validation-for="Edad" class="text-danger"></span>
+                        <input asp-for="Edad" class="form-control" placeholder="Ejemplo: 20" />
+                        <span asp-validation-for="Edad" class="text-danger small"></span>
                     </div>
                 </form>
             </div>
 
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-light border" data-bs-dismiss="modal">Cerrar</button>
                 <!-- Este botón lo usa el JS: Estudiantes.GuardarEstudiante() -->
-                <button type="button" class="btn btn-primary" id="btnGuardarCambios">Guardar</button>
+                <button type="button" class="btn btn-primary" id="btnGuardarCambios">
+                    Guardar
+                </button>
             </div>
 
         </div>

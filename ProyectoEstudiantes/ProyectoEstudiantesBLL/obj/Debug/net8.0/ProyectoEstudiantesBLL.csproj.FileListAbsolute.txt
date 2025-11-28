@@ -13,3 +13,19 @@ C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\P
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\refint\ProyectoEstudiantesBLL.dll
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.pdb
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ref\ProyectoEstudiantesBLL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\bin\Debug\net8.0\ProyectoEstudiantesBLL.deps.json
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\bin\Debug\net8.0\ProyectoEstudiantesBLL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\bin\Debug\net8.0\ProyectoEstudiantesBLL.pdb
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\bin\Debug\net8.0\ProyectoEstudiantesDAL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\bin\Debug\net8.0\ProyectoEstudiantesDAL.pdb
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.sourcelink.json
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\Proyecto.E9AE782A.Up2Date
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\refint\ProyectoEstudiantesBLL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ProyectoEstudiantesBLL.pdb
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesBLL\obj\Debug\net8.0\ref\ProyectoEstudiantesBLL.dll

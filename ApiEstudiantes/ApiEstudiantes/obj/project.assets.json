@@ -3051,23 +3051,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Diana\\.nuget\\packages\\": {},
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ApiEstudiantes\\ApiEstudiantes\\ApiEstudiantes.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada4\\ApiEstudiantes\\ApiEstudiantes\\ApiEstudiantes.csproj",
       "projectName": "ApiEstudiantes",
-      "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ApiEstudiantes\\ApiEstudiantes\\ApiEstudiantes.csproj",
-      "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ApiEstudiantes\\ApiEstudiantes\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada4\\ApiEstudiantes\\ApiEstudiantes\\ApiEstudiantes.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada4\\ApiEstudiantes\\ApiEstudiantes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3075,15 +3075,14 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ApiEstudiantes\\ApiEstudiantes.BLL\\ApiEstudiantes.BLL.csproj": {
-              "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ApiEstudiantes\\ApiEstudiantes.BLL\\ApiEstudiantes.BLL.csproj"
+            "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada4\\ApiEstudiantes\\ApiEstudiantes.BLL\\ApiEstudiantes.BLL.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada4\\ApiEstudiantes\\ApiEstudiantes.BLL\\ApiEstudiantes.BLL.csproj"
             }
           }
         }
@@ -3098,7 +3097,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3134,7 +3133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

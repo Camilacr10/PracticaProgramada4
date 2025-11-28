@@ -13,3 +13,19 @@ C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\A
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\refint\ApiEstudiantes.BLL.dll
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.pdb
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ref\ApiEstudiantes.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\bin\Debug\net8.0\ApiEstudiantes.BLL.deps.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\bin\Debug\net8.0\ApiEstudiantes.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\bin\Debug\net8.0\ApiEstudiantes.BLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\bin\Debug\net8.0\ApiEstudiantes.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\bin\Debug\net8.0\ApiEstudiantes.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.sourcelink.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstud.37E8734B.Up2Date
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\refint\ApiEstudiantes.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ApiEstudiantes.BLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.BLL\obj\Debug\net8.0\ref\ApiEstudiantes.BLL.dll

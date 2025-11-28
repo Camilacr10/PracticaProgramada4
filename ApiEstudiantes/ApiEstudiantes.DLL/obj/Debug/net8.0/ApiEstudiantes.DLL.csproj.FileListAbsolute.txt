@@ -12,3 +12,18 @@ C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\A
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.pdb
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.genruntimeconfig.cache
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ref\ApiEstudiantes.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\bin\Debug\net8.0\ApiEstudiantes.DLL.deps.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\bin\Debug\net8.0\ApiEstudiantes.DLL.runtimeconfig.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\bin\Debug\net8.0\ApiEstudiantes.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\bin\Debug\net8.0\ApiEstudiantes.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.sourcelink.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\refint\ApiEstudiantes.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ApiEstudiantes.DLL.genruntimeconfig.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada4\ApiEstudiantes\ApiEstudiantes.DLL\obj\Debug\net8.0\ref\ApiEstudiantes.DLL.dll

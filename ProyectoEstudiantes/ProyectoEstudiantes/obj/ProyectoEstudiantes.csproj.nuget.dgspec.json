@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj": {}
+    "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj": {
+    "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj",
         "projectName": "ProyectoEstudiantesBLL",
-        "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,15 +25,14 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
-                "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj"
+              "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj"
               }
             }
           }
@@ -48,7 +47,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -75,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
+    "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj",
         "projectName": "ProyectoEstudiantesDAL",
-        "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,7 +99,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +117,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -140,24 +138,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj": {
+    "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj",
         "projectName": "ProyectoEstudiantes",
-        "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantes\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantes\\ProyectoEstudiantes.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -165,18 +163,17 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj": {
-                "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj"
+              "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesBLL\\ProyectoEstudiantesBLL.csproj"
               },
-              "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
-                "projectPath": "C:\\Users\\Diana\\Downloads\\2025\\3 Cuatrimestre\\Programación Web Avanzada\\Tareas\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj"
+              "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PracticaProgramada4\\ProyectoEstudiantes\\ProyectoEstudiantesDAL\\ProyectoEstudiantesDAL.csproj"
               }
             }
           }
@@ -191,7 +188,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -215,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

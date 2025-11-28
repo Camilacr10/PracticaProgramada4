@@ -9,3 +9,15 @@ C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\P
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\refint\ProyectoEstudiantesDAL.dll
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.pdb
 C:\Users\Diana\Downloads\2025\3 Cuatrimestre\Programación Web Avanzada\Tareas\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ref\ProyectoEstudiantesDAL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\bin\Debug\net8.0\ProyectoEstudiantesDAL.deps.json
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\bin\Debug\net8.0\ProyectoEstudiantesDAL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\bin\Debug\net8.0\ProyectoEstudiantesDAL.pdb
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.sourcelink.json
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\refint\ProyectoEstudiantesDAL.dll
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ProyectoEstudiantesDAL.pdb
+C:\Users\USUARIO\source\repos\PracticaProgramada4\ProyectoEstudiantes\ProyectoEstudiantesDAL\obj\Debug\net8.0\ref\ProyectoEstudiantesDAL.dll

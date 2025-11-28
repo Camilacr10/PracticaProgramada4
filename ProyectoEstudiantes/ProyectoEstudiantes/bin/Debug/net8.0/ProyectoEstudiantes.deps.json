@@ -90,7 +90,7 @@
         },
         "runtime": {
           "ProyectoEstudiantesBLL.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -98,7 +98,7 @@
       "ProyectoEstudiantesDAL/1.0.0": {
         "runtime": {
           "ProyectoEstudiantesDAL.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
